@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://techorohit.github.io/snippets-wx8ra1/sitemap.xml
